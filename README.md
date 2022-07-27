@@ -2,7 +2,7 @@
 
 ## kindly Read the Instructions using this link:
 
-https://github.com/rounaksuthar/AngularApp/blob/main/README.md
+https://github.com/ghostbrucewayne/AngularApp/blob/main/README.md
 
 ## If you want to test this application individually.
 
